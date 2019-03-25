@@ -5,6 +5,7 @@ Repository for CS7IS2-AI Assignment2
 1. Mohd Tousif(18303317)
 2. Gauransh Bhutani(18303042)
 3. Ashwin Kumar(18302700)
+4. Siddharth Dhillon(18300735)
 
 ## Team is working on Chatbots
 
