@@ -21,3 +21,6 @@ https://www.researchgate.net/profile/Al_Rahman/publication/323211844_Programming
 
 ## Game development adaptive AI 
 https://ieeexplore.ieee.org/document/8324230
+
+Intent Detection In CHatbot
+https://ieeexplore.ieee.org/document/8665635
