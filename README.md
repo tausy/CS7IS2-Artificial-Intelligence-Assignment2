@@ -24,3 +24,7 @@ https://ieeexplore.ieee.org/document/8324230
 
 Intent Detection In CHatbot
 https://ieeexplore.ieee.org/document/8665635
+
+
+Survey on Chatbot Design Techniques in Speech Conversation Systems
+http://repository.essex.ac.uk/21238/1/Paper_12-Survey_on_Chatbot_Design_Techniques_in_Speech_Conversation_Systems.pdf
