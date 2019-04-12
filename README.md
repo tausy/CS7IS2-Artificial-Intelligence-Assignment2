@@ -11,6 +11,8 @@ Repository for CS7IS2-AI Assignment2
 
 A Tool of Conversation: Chatbot
 https://www.researchgate.net/profile/Menal_Dahiya/publication/321864990_A_Tool_of_Conversation_Chatbot/links/5a360b02aca27247eddea031/A-Tool-of-Conversation-Chatbot.pdf
+## Build Better chatbots
+https://ipfs.io/ipfs/QmNz7iBVwYraL85DSRa4kC4xyM3h1WyN8RkLDSypPCcu4W/Build%20Better%20Chatbots.pdf
 
 ## This paper provides a basic understanding of Chatbots, worth giving a try:
 https://www.academia.edu/37334457/Chatbots_changing_user_needs_and_motivations
