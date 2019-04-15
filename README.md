@@ -14,7 +14,7 @@ https://www.researchgate.net/profile/Menal_Dahiya/publication/321864990_A_Tool_o
 ## Build Better chatbots
 https://ipfs.io/ipfs/QmNz7iBVwYraL85DSRa4kC4xyM3h1WyN8RkLDSypPCcu4W/Build%20Better%20Chatbots.pdf
 
-## Du=ifferent Tyes of chatbots
+## Different Tyes of chatbots
 https://chatbotsmagazine.com/the-3-types-of-chatbots-how-to-determine-the-right-one-for-your-needs-a4df8c69ec4c
 
 ## This paper provides a basic understanding of Chatbots, worth giving a try:
