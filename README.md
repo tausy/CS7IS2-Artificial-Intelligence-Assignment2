@@ -33,3 +33,9 @@ https://ieeexplore.ieee.org/document/8665635
 
 Survey on Chatbot Design Techniques in Speech Conversation Systems
 http://repository.essex.ac.uk/21238/1/Paper_12-Survey_on_Chatbot_Design_Techniques_in_Speech_Conversation_Systems.pdf
+
+##Analysis on state of the Art NLP algorithms:
+
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding https://arxiv.org/abs/1810.04805
+SQuAD: 100,000+ Questions for Machine Comprehension of Text https://nlp.stanford.edu/pubs/rajpurkar2016squad.pdf
+
